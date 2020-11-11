@@ -39,6 +39,7 @@ class AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
   List<Locale> supportedLocales = [
     Locale('en', ''),
     Locale('de', ''),
+    Locale('ja', ''),
   ];
 
   @override
