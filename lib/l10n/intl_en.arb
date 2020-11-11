@@ -1,16 +1,11 @@
 {
   "@@locale": "en",
-  "@@last_modified": "2020-11-11T17:53:30.085645",
-  "title": "Title is here",
-  "@title": {
-    "type": "text",
-    "placeholders": {}
-  },
   "content": "Hello, {name}",
   "@content": {
-    "type": "text",
     "placeholders": {
       "name": {}
     }
-  }
+  },
+  "title": "Title is here",
+  "@title": {}
 }

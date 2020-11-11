@@ -1,0 +1,11 @@
+{
+  "@@locale": "ja",
+  "content": "こんにちは、{name}",
+  "@content": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "title": "これはタイトルです。",
+  "@title": {}
+}
