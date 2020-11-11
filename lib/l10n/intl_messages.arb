@@ -1,0 +1,16 @@
+{
+  "@@locale": "messages",
+  "@@last_modified": "2020-11-11T18:04:20.579704",
+  "title": "Title is here",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "content": "Hello, {name}",
+  "@content": {
+    "type": "text",
+    "placeholders": {
+      "name": {}
+    }
+  }
+}
